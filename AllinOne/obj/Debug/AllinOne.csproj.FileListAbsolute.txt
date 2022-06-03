@@ -1,0 +1,14 @@
+D:\project\c# destop application\AllinOne\AllinOne\bin\Debug\AllinOne.exe.config
+D:\project\c# destop application\AllinOne\AllinOne\bin\Debug\AllinOne.exe
+D:\project\c# destop application\AllinOne\AllinOne\bin\Debug\AllinOne.pdb
+D:\project\c# destop application\AllinOne\AllinOne\obj\Debug\AllinOne.csproj.AssemblyReference.cache
+D:\project\c# destop application\AllinOne\AllinOne\obj\Debug\AllinOne.Properties.Resources.resources
+D:\project\c# destop application\AllinOne\AllinOne\obj\Debug\AllinOne.csproj.GenerateResource.cache
+D:\project\c# destop application\AllinOne\AllinOne\obj\Debug\AllinOne.csproj.CoreCompileInputs.cache
+D:\project\c# destop application\AllinOne\AllinOne\obj\Debug\AllinOne.exe
+D:\project\c# destop application\AllinOne\AllinOne\obj\Debug\AllinOne.pdb
+D:\project\c# destop application\AllinOne\AllinOne\bin\Debug\Guna.UI2.dll
+D:\project\c# destop application\AllinOne\AllinOne\obj\Debug\AllinOne.csproj.CopyComplete
+D:\project\c# destop application\AllinOne\AllinOne\obj\Debug\AllinOne.SignIn.resources
+D:\project\c# destop application\AllinOne\AllinOne\obj\Debug\AllinOne.Signup.resources
+D:\project\c# destop application\AllinOne\AllinOne\obj\Debug\AllinOne.Dashbord.resources
